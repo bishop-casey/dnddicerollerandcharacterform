@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "mJkKGY3JUwk02O5s312TmOgBORpcM7adYnhNmbk/ycRmQTd7nNKm8cKvXW0ek5gXyytf7+Pvs1DpA4aoNaV7rw==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\cbish\\Desktop\\dnddicerollerandcharacterform\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "mJkKGY3JUwk02O5s312TmOgBORpcM7adYnhNmbk/ycRmQTd7nNKm8cKvXW0ek5gXyytf7+Pvs1DpA4aoNaV7rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cbish\\Desktop\\dnddicerollerandcharacterform\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 8afa7d4ddaa720656a251fed05001709bb3ba9e2
 }
