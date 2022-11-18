@@ -1,0 +1,20 @@
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\bin\Debug\net6.0-windows\DnD Project V.2.exe
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\bin\Debug\net6.0-windows\DnD Project V.2.deps.json
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\bin\Debug\net6.0-windows\DnD Project V.2.runtimeconfig.json
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\bin\Debug\net6.0-windows\DnD Project V.2.dll
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\bin\Debug\net6.0-windows\DnD Project V.2.pdb
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\DnD Project V.2.csproj.AssemblyReference.cache
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\DnD_Project_V._2.CharacterSheet.resources
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\DnD_Project_V._2.DiceRoller.resources
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\DnD_Project_V._2.Menu.resources
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\DnD_Project_V._2.Properties.Resources.resources
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\DnD Project V.2.csproj.GenerateResource.cache
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\DnD Project V.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\DnD Project V.2.AssemblyInfoInputs.cache
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\DnD Project V.2.AssemblyInfo.cs
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\DnD Project V.2.csproj.CoreCompileInputs.cache
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\DnD Project V.2.dll
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\refint\DnD Project V.2.dll
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\DnD Project V.2.pdb
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\DnD Project V.2.genruntimeconfig.cache
+C:\Users\cbish\Desktop\dnddicerollerandcharacterform\DnDProject2\DnD Project V.2\DnD Project V.2\obj\Debug\net6.0-windows\ref\DnD Project V.2.dll

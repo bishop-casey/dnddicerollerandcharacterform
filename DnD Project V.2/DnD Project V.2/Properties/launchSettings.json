@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DnD Project V.2": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
