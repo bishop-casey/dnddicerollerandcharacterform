@@ -1,17 +1,14 @@
-## Simple RPG Character Generator with dice roller. Made with Windows Forms using C# with Visual Studios.
-## It is recommended to try running with Visual Studio or VS Code and will most likely work only on windows computers due to the format it is in.
-##### Plaese look at file called Simple RPG that is the only working file. Several Error accurred with previous projects that lead to fatal unknown errors.
-##### This gereator is unfinieshed but stable exept for saving the characters settings an unknown error accurs that I did not have time to track down. If you know or have an idea
-##### about the error feel free to let me know.
-##### 
-##### The current working sections of the code for the project include Inheritance from a parent class Creature and two child classes NPC and Player. The children inhereate 
-##### several functions and data from the parent.
-##### 
-##### There are a couple of master loops in the character creation form telling the player to create a name for the character, what gender they are and what class they will be
-##### the loop will not let them move on until they have completed the section or closed the app so as to ensure proper character creation.
-##### 
-##### The loops also display the playes charactera stats in a message box when they have completed the creation process. This was also intended to save the stats in to a xml file
-##### one the players computer so they could see and use the character. The save and load requirement ran into and issue I could not fix in time for the deadline. I deeply      
-##### regret that becasue it would have been very intersting and fun to play around with.
-#####
-##### It was a pleasure being tuaght by everyone and a great experiance. Thank you for your time and help.
+### Simple RPG v2
+ PLease use file Simple RPG v2. This is a windows form with C# as the language and was created with Visaul Studio.
+ Please use a windows pc due to the formating and Visual Studio or VS Code to run the application.
+
+ This is a simple app that lets someone create a character for an RPG game. The app can save the characters name, gender and class then diisplay it later.
+ This app also contains a Simple random dice roller for when it is needed.
+
+##### Requirements to Meet
+##### -Master Loop - There is a Master Loop set up for the character creator form that informs the player that they must fill out all section of the creator. If this is not done a message box will appear and tell the player what they need to fill out then returning them to that creator. There are also the buttons that are used to navagate the app. 
+##### -Read and Write to an external file - The apps save button creates a file on the users desktop with the data they entered on the character creation form. This data is saved in RPGCharacter folder on the decktop in an XML format. The app can also read from this file and show it to the player in the character info form.
+### -Inheritance - There is one parent class the Creature class and two children classes from which they inherit from Creature. The children classes are the player and NPC classes which get the constructor and properties from creature.
+##### - display user input information - the player will enter in information of the character creation form and when they press the save button a meaagse box will appear with the information they have entered before the file is saves.
+
+###### Flaws: The app is very simple and does not show a lot of information. The code is very sloppy and can be inproved on as my skill improves. Can be modified for better use and have an actual game that could be played with the character at a later date.
