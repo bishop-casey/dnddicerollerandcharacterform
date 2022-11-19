@@ -11,4 +11,4 @@
 ### -Inheritance - There is one parent class the Creature class and two children classes from which they inherit from Creature. The children classes are the player and NPC classes which get the constructor and properties from creature.
 ##### - display user input information - the player will enter in information of the character creation form and when they press the save button a meaagse box will appear with the information they have entered before the file is saves.
 
-###### Flaws: The app is very simple and does not show a lot of information. The code is very sloppy and can be inproved on as my skill improves. Can be modified for better use and have an actual game that could be played with the character at a later date.
+###### Flaws: The app is very simple and does not show a lot of information. The code is very sloppy and can be improved on as my skill improves. Can be modified for better use and have an actual game that could be played with the character at a later date.
